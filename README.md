@@ -1,3 +1,5 @@
+[Chinese中文](./README_CN.md)
+
 # Auto-Clicker
 A console-based Autoclicker wrote with c++
 # Features
